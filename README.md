@@ -11,4 +11,5 @@
 <h1> Example Requests </h1>
 
 <h3>Postman</h3>
-![Capture1](https://user-images.githubusercontent.com/82464964/133097765-f46f4421-e5ac-4c48-8cf9-da289d0b8a4d.PNG)
+(https://user-images.githubusercontent.com/82464964/133097765-f46f4421-e5ac-4c48-8cf9-da289d0b8a4d.PNG)
+
